@@ -6,7 +6,7 @@ use Goutte\Client;
 require 'db.php';
 
 //get the country id and link from db
-$sql = "SELECT com_id, com_c_id, com_fixtures_link FROM competitions where com_id=179";
+$sql = "SELECT com_id, com_c_id, com_fixtures_link FROM competitions";
 $matches = $conn->query($sql);
 
 $css_selector = "tbody tr.predict td a";
@@ -16,7 +16,7 @@ $thing_to_scrape = "_text";
 try {
 
 // prepare and bind
-$stmt = $conn->prepare("INSERT INTO matchi (m_date, m_hometeam, m_awayteam, m_round, m_com_id, m_sv_link, m_livescore_id) VALUES (?, ?, ?, ?, ?, ?, ?)");
+$stmt = $conn->prepare("INSERT INTO matches (m_date, m_hometeam, m_awayteam, m_round, m_com_id, m_sv_link, m_livescore_id) VALUES (?, ?, ?, ?, ?, ?, ?)");
 $stmt->bind_param("diiiisi", $m_date, $m_hometeam, $m_awayteam, $m_round, $m_com_id, $m_sv_link, $m_livescore_id);
 
 $client = new Client();

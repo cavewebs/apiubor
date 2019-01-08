@@ -1,0 +1,1120 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"value"
+			],
+			[
+				"ht",
+				"ht_q"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ml",
+				"m_sv_link"
+			],
+			[
+				"aw",
+				"m_awayteam"
+			],
+			[
+				"fi",
+				"fixturesLink"
+			],
+			[
+				"comp",
+				"competitions"
+			],
+			[
+				"coun",
+				"countries"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"countr",
+				"country_link"
+			],
+			[
+				"com",
+				"competitionFixtureRaw"
+			],
+			[
+				"_",
+				"_text"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"link",
+				"linkToMatch"
+			],
+			[
+				"fixtc",
+				"fixtureCrawler"
+			],
+			[
+				"fixt",
+				"fixtureLink"
+			],
+			[
+				"fix",
+				"fixtureLink"
+			],
+			[
+				"fixc",
+				"fixtureCrawler"
+			],
+			[
+				"country",
+				"countryCompetitions"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"countryCompetitions"
+			],
+			[
+				"get",
+				"getCountry"
+			],
+			[
+				"ge",
+				"getCountry"
+			],
+			[
+				"clie",
+				"client"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"filege",
+				"file_get_html"
+			],
+			[
+				"come",
+				"competition"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"vid",
+				"videoDetails"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"country_",
+				"country_name"
+			],
+			[
+				"c",
+				"country"
+			],
+			[
+				"counry",
+				"country"
+			],
+			[
+				"cou",
+				"country_name"
+			],
+			[
+				"bg",
+				"background\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"bordt",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ab",
+				"about-me"
+			],
+			[
+				"we",
+				"welcome-section"
+			],
+			[
+				"Al",
+				"alt\tAttr"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"prof",
+				"profile_locations"
+			],
+			[
+				"twe",
+				"tweet_location_operators"
+			],
+			[
+				"tw",
+				"twitter_place_json"
+			],
+			[
+				"ha",
+				"header\tTag"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"pack",
+				"package-owners"
+			],
+			[
+				"pac",
+				"package-owners"
+			],
+			[
+				"travl",
+				"traveller"
+			],
+			[
+				"tr",
+				"traveller"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"li",
+				"Likely"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"blo",
+				"blockquote\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ov",
+				"overflow-x\tproperty"
+			],
+			[
+				"card",
+				"card-footer \tBulma CSS Class"
+			],
+			[
+				"of",
+				"overflow-x\tproperty"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"hom",
+				"home_assets"
+			],
+			[
+				"clo",
+				"closeModal"
+			],
+			[
+				"ho",
+				"horizontal"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"bulma-b",
+				"bulma-button\tbulma-button"
+			],
+			[
+				"bulmab",
+				"bulma-button\tbulma-button"
+			],
+			[
+				"bulma-con",
+				"bulma-container\tbulma-container"
+			],
+			[
+				"bulma",
+				"bulma-col\tbulma-col"
+			],
+			[
+				"bulmac",
+				"bulma-cdn\tbulma-cdn"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"flo",
+				"float\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"wh",
+				"what_lang"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"m",
+				"margin-vertical\tmargin-vertical"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"sto",
+				"store_url"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"store",
+				"storeurl"
+			],
+			[
+				"errorm",
+				"errorMsg"
+			],
+			[
+				"err",
+				"errorMsg"
+			],
+			[
+				"ref",
+				"regForm"
+			],
+			[
+				"us",
+				"useros"
+			],
+			[
+				"user",
+				"userdevice"
+			],
+			[
+				"n",
+				"navigator"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"text",
+				"text-right\ttext-right"
+			],
+			[
+				"em",
+				"emailTaken"
+			],
+			[
+				"sign",
+				"signupForm"
+			],
+			[
+				"signu",
+				"signupFb"
+			],
+			[
+				"si",
+				"signUpModal"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"user_",
+				"user_email"
+			],
+			[
+				"ex",
+				"exit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "a.php",
+			"settings":
+			{
+				"buffer_size": 1379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "b.php",
+			"settings":
+			{
+				"buffer_size": 802,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d.php",
+			"settings":
+			{
+				"buffer_size": 2316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "c.php",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/timchosen/Desktop/sfa/goute/c.php",
+			"settings":
+			{
+				"buffer_size": 3867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ec.php",
+			"settings":
+			{
+				"buffer_size": 91,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anaconda l",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/sfa",
+		"/opt/lampp/htdocs/sfa/goute"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/sfa/goute/db.php",
+		"/opt/lampp/htdocs/sfa/goute/index.php",
+		"/opt/lampp/htdocs/sfa/index.php",
+		"/home/timchosen/Desktop/sfa/goute/c.php",
+		"/home/timchosen/Desktop/sfa/goute/b.php",
+		"/home/timchosen/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/opt/lampp/htdocs/sfa/goute/app.yaml",
+		"/opt/lampp/htdocs/sfa/goute/ec.php",
+		"/opt/lampp/htdocs/sfa/country_competitions.php",
+		"/opt/lampp/htdocs/sfa/competitions_fixture.php",
+		"/opt/lampp/htdocs/diz/assets/home_assets/style.css",
+		"/home/timchosen/Downloads/dark/styles.css",
+		"/opt/lampp/htdocs/diz/application/models/Dashboard_model.php",
+		"/opt/lampp/htdocs/diz/application/views/layout/home_header.php",
+		"/opt/lampp/htdocs/diz/application/views/layout/home_footer.php",
+		"/opt/lampp/htdocs/diz/application/views/new_home.php",
+		"/opt/lampp/htdocs/diz/application/views/card.php",
+		"/home/timchosen/Downloads/basic/styles.css",
+		"/home/timchosen/Downloads/basic/styles.min.css",
+		"/home/timchosen/Downloads/light/styles.css",
+		"/opt/lampp/htdocs/diz/application/views/layout/view_header.php",
+		"/opt/lampp/htdocs/diz/application/views/layout/view_header1.php",
+		"/opt/lampp/htdocs/diz/assets/ico/assets/css/style.css",
+		"/opt/lampp/htdocs/diz/assets/home_assets/main_script.js",
+		"/opt/lampp/htdocs/diz/application/views/dizcover.php",
+		"/opt/lampp/htdocs/diz/application/config/routes.php",
+		"/opt/lampp/htdocs/diz/application/views/layout/footer.php",
+		"/opt/lampp/htdocs/diz/application/views/layout/header.php",
+		"/opt/lampp/htdocs/diz/application/controllers/Site.php",
+		"/home/timchosen/Desktop/templt/themify-icons/index.html",
+		"/opt/lampp/htdocs/diz/assets/img/forestbridge.jpg",
+		"/opt/lampp/htdocs/diz/assets/css/style.css",
+		"/home/timchosen/Desktop/templt/mi/index.html",
+		"/home/timchosen/Desktop/v4o/cast.html",
+		"/home/timchosen/pp/app/Http/Controllers/ProjectsController.php",
+		"/home/timchosen/pp/database/migrations/2018_11_12_090029_create_projects_table.php",
+		"/home/timchosen/Desktop/scrap.py",
+		"/opt/lampp/htdocs/v4o/css/bootstrap.min.css",
+		"/opt/lampp/htdocs/v4o/sftp-config.json",
+		"/opt/lampp/htdocs/v4o/vote_files/style.css",
+		"/opt/lampp/htdocs/v4o/css/style.css",
+		"/opt/lampp/htdocs/v4o/vote.php",
+		"/opt/lampp/htdocs/v4o/js/ann.txt",
+		"/opt/lampp/htdocs/v4o/js/scripts.js",
+		"/opt/lampp/htdocs/v4o/js/function.js",
+		"/home/timchosen/Desktop/v4o/vote.html",
+		"/home/timchosen/Desktop/v4o/vote.php",
+		"/home/timchosen/Desktop/v4o/css/style.css",
+		"/home/timchosen/Desktop/v4o/vote_files/style.css",
+		"/home/timchosen/Desktop/v4o/vote_files/function.js",
+		"/home/timchosen/Desktop/v4o/js/scripts.js",
+		"/opt/lampp/etc/extra/httpd-xampp.conf",
+		"/opt/lampp/etc/extra/httpd-vhosts.conf",
+		"/home/timchosen/Desktop/v4o/vote_files/FileSaver.js",
+		"/home/timchosen/Desktop/v4o/vote_files/styles.js",
+		"/opt/lampp/htdocs/diz/application/models/Core_model.php",
+		"/opt/lampp/htdocs/nshopily/application/core/MY_Controller.php",
+		"/opt/lampp/htdocs/nshopily/assets/js/main.js",
+		"/home/timchosen/Desktop/colorlib-wizard-12/index.html",
+		"/opt/lampp/htdocs/nshopily/application/config/database.php",
+		"/opt/lampp/htdocs/nshopily/application/config/config.php",
+		"/opt/lampp/htdocs/shopily/assets/css/main.css",
+		"/opt/lampp/htdocs/shopily/header1.php",
+		"/opt/lampp/htdocs/shopily/index.php",
+		"/opt/lampp/htdocs/shopit/application/logs/log-2018-10-17.php",
+		"/opt/lampp/htdocs/diz/sftp-config.json",
+		"/opt/lampp/htdocs/shopit/application/views/templates/higen/assets/css/custom.css",
+		"/opt/lampp/htdocs/shopit/assets/templates/kiosk/css/style.css",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/assets/css/custom.css",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/home.php",
+		"/opt/lampp/htdocs/shopit/assets/templates/coza/css/main.css",
+		"/opt/lampp/htdocs/adminator/.htacces",
+		"/opt/lampp/htdocs/sym/src/Repository/UsersRepository.php",
+		"/opt/lampp/htdocs/mys/src/Entity/UserGroups.php",
+		"/opt/lampp/htdocs/sym/src/Entity/Users.php",
+		"/opt/lampp/htdocs/sym/templates/groups/new.html.twig",
+		"/opt/lampp/htdocs/sym/src/Entity/Groups.php",
+		"/opt/lampp/htdocs/sym/src/Controller/ArticleController.php",
+		"/opt/lampp/htdocs/sym/src/Entity/UserGroups.php",
+		"/opt/lampp/htdocs/sym/src/Repository/GroupsRepository.php",
+		"/opt/lampp/htdocs/sym/src/Controller/GroupsController.php",
+		"/opt/lampp/htdocs/sym/src/Repository/UserGroupsRepository.php",
+		"/opt/lampp/htdocs/sym/templates/admin/index.html.twig",
+		"/opt/lampp/htdocs/sym/src/Controller/AdminController.php",
+		"/opt/lampp/htdocs/sym/src/Migrations/Version20180314211101.php",
+		"/opt/lampp/htdocs/the_spacebar/templates/article/home_page.html.twig",
+		"/home/timchosen/Desktop/codeline/weather-app/src/app/weather.js.map",
+		"/home/timchosen/Documents/ionic/diz/src/services/weather.ts",
+		"/home/timchosen/Documents/ionic/diz/src/services/weather.js.map",
+		"/home/timchosen/Documents/ionic/diz/src/providers/api/api.js.map",
+		"/home/timchosen/Desktop/codeline/weather-app/angular.json",
+		"/home/timchosen/Documents/ionic/diz/src/pages/home/home.ts",
+		"/home/timchosen/Downloads/Atlas/css/aos.css",
+		"/opt/lampp/htdocs/shopit/application/views/templates/higen/_parts/header.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/higen/home.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/higen/shopping_cart.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/higen/_parts/footer.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/tembe/home.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/home.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/shop.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/assets/css/custom.css",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/_parts/header.php",
+		"/home/timchosen/Documents/templates/persuit/home-sidebar.html",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/view_product.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/view_blog_post.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/shopping_cart.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/contacts.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/checkout.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/yanzu/blog.php",
+		"/opt/lampp/htdocs/shopit/application/models/Public_model.php",
+		"/opt/lampp/htdocs/shopit/application/libraries/Loop.php",
+		"/home/timchosen/Documents/templates/persuit/no.html",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/_parts/footer.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/tembe/_parts/header.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/shopping_cart.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/_parts/header.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/view_product.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/shop.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/view_blog_post.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/tembe/assets/css/style.css",
+		"/opt/lampp/htdocs/shopit/assets/js/system.js",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/assets/js/mine.js",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/contacts.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/kiosk/blog.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/redlabel/assets/css/custom.css",
+		"/opt/lampp/htdocs/shopit/application/views/templates/greenlabel/_parts/footer.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/greenlabel/view_product.php",
+		"/opt/lampp/htdocs/shopit/application/views/templates/greenlabel/_parts/header.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 283.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2",
+			"1",
+			"</li><li>",
+			"><ul>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"4",
+			"3",
+			"2",
+			"</li>\n\n<li>",
+			"</li>\n<li>",
+			"</li><li>\n",
+			"><ul>\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "a.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "b.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								766
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "d.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "c.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/timchosen/Desktop/sfa/goute/c.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3867,
+								3867
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ec.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 97.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "football_api",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"apiservice",
+				"app/Providers/AppServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
