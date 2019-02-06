@@ -6,12 +6,11 @@ use Goutte\Client;
 require 'db.php';
 
 //get the country id and link from db
-$sql = "SELECT com_id, com_link FROM competitions";
+$sql = "SELECT com_id, com_link FROM competitions WHERE com_fixtures_link='na'";
 $competitions = $conn->query($sql);
 
 
 while($row = $competitions->fetch_assoc()) {
-  if($row['com_id']>602){
      
           $url1 = $row['com_link'];
           $client1 = new Client();
@@ -22,7 +21,7 @@ while($row = $competitions->fetch_assoc()) {
               // execute the query
           $stmt->execute();
       echo 'updated '.$fixturesLink. ' <br >';
-      }
+      
 }
 
 echo 'another milestone';

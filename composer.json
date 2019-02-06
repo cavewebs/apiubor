@@ -1,6 +1,17 @@
 {
     "require": {
         "fabpot/goutte": "^3.2",
-        "guzzlehttp/guzzle": "^6.3"
-    }
+        "guzzlehttp/guzzle": "^6.3",
+        "bytic/goutte-phantomjs-bridge": "^1.0",
+        "symfony/panther": "^0.2.0"
+   },
+"scripts": {
+    "post-install-cmd": [
+      "ByTIC\\GouttePhantomJs\\Composer\\PhantomInstaller::installPhantomJS",
+            "CasperJsInstaller\\Installer::install"    ],
+    "post-update-cmd": [
+      "ByTIC\\GouttePhantomJs\\Composer\\PhantomInstaller::installPhantomJS",
+            "CasperJsInstaller\\Installer::install"    ]
+
+}
 }
