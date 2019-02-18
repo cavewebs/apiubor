@@ -8,7 +8,7 @@ ini_set('display_errors', 1);
 //GET MATCH DETAILS
 require 'db.php';
 $j=1;
-  $url = "https://www.livescore.cz/gameinfo2.php?id=2782174";    
+  $url = "https://www.livescore.cz/gameinfo2.php?switch=old&id=2782174";    
 $client = new Client();
 // try {
 //     //begin the transaction

@@ -79,4 +79,9 @@ return array(
     'JonnyW\\PhantomJs\\Tests\\Unit\\Validator\\EsprimaTest' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Tests/Unit/Validator/EsprimaTest.php',
     'JonnyW\\PhantomJs\\Validator\\EngineInterface' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Validator/EngineInterface.php',
     'JonnyW\\PhantomJs\\Validator\\Esprima' => $vendorDir . '/jonnyw/php-phantomjs/src/JonnyW/PhantomJs/Validator/Esprima.php',
+    'vierbergenlars\\SemVer\\Internal\\Comparator' => $vendorDir . '/vierbergenlars/php-semver/src/vierbergenlars/SemVer/internal.php',
+    'vierbergenlars\\SemVer\\Internal\\Exports' => $vendorDir . '/vierbergenlars/php-semver/src/vierbergenlars/SemVer/internal.php',
+    'vierbergenlars\\SemVer\\Internal\\G' => $vendorDir . '/vierbergenlars/php-semver/src/vierbergenlars/SemVer/internal.php',
+    'vierbergenlars\\SemVer\\Internal\\Range' => $vendorDir . '/vierbergenlars/php-semver/src/vierbergenlars/SemVer/internal.php',
+    'vierbergenlars\\SemVer\\Internal\\SemVer' => $vendorDir . '/vierbergenlars/php-semver/src/vierbergenlars/SemVer/internal.php',
 );

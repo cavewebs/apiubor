@@ -3,7 +3,10 @@
         "fabpot/goutte": "^3.2",
         "guzzlehttp/guzzle": "^6.3",
         "bytic/goutte-phantomjs-bridge": "^1.0",
-        "symfony/panther": "^0.2.0"
+        "symfony/panther": "^0.2.0",
+        "chrome-php/chrome": "^0.6.0",
+        "spatie/crawler": "^4.2",
+        "nesk/puphpeteer": "^1.4"
    },
 "scripts": {
     "post-install-cmd": [

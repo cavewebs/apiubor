@@ -1,0 +1,8 @@
+<VirtualHost *:80>
+    ServerAdmin admin@easyfootballapi.com
+    ServerName easyfootballapi.com
+    ServerAlias www.easyfootballapi.com
+    DocumentRoot /var/www/easyfootballapi.com/html
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>

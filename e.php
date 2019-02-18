@@ -13,21 +13,21 @@ $client = new Client();
 try {
     //begin the transaction
     $conns->beginTransaction();
-$matches = $conn->query("SELECT m_sv_link, m_id FROM matches WHERE m_status !='79'") or die($conn->error);
+$matches = $conn->query("SELECT * FROM matches WHERE m_status !='79'") or die($conn->error);
 while($row =  $matches->fetch_assoc()){
 if($row !=NULL){
   if($j<50){
                 echo 'the Match being processed is: '.$row['m_id'].'<br />';  
 
-          $crawler = $client->request('GET', $row['m_sv_link']);
-          $competitionMatch = $crawler->filter('table#gamec')->each(function ($tr, $i) { 
+          $crawler1 = $client->request('GET', $row['m_sv_link']);
+          $competitionMatch = $crawler1->filter('table#gamec')->each(function ($tr, $i) { 
                   return $tr->filter('td[colspan=4]')->each (
                     function ($td, $i) 
                   { 
                      
                     return trim($td->text()); 
                     });
-                
+                 
               });
               foreach ($competitionMatch as $key => $value) { 
                 // print_r($competitionMatch);

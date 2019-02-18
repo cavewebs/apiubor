@@ -6,7 +6,11 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'vierbergenlars\\SemVer\\' => array($vendorDir . '/vierbergenlars/php-semver/src'),
+    'vierbergenlars\\LibJs\\' => array($vendorDir . '/vierbergenlars/php-semver/src'),
+    'Wrench' => array($vendorDir . '/wrench/wrench/lib'),
     'Twig_' => array($vendorDir . '/twig/twig/lib'),
     'PhantomInstaller\\' => array($vendorDir . '/jakoch/phantomjs-installer/src'),
     'JonnyW\\PhantomJs\\' => array($vendorDir . '/jonnyw/php-phantomjs/src'),
+    'Evenement' => array($vendorDir . '/evenement/evenement/src'),
 );
